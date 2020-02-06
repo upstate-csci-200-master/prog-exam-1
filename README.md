@@ -4,6 +4,7 @@ A climate research scientist has employed your services. She needs you to develo
 
 Write a Java program named TempAverages that reads in 7 temperatures (floating point format) and computes these 2 averages. Output the results as 2 double precision floating point numbers separated by a single space. She wants the even day average to appear first. 
 
+Math review: the average of a group of numbers is found by adding up the numbers and then dividing the result of the addition by the number of numbers added.
 
 Sample Input
 ```
